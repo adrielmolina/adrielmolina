@@ -1,4 +1,5 @@
 ## Hi there 👋
+### I'm currently learning data analysis 😎
 
 <!--
 **adrielmolina/adrielmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+TO DO:
+- add intro
+- add DA projects
+
 -->
