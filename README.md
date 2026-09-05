@@ -1,5 +1,7 @@
-## Hi there 👋
-### I'm currently learning data analysis 😎
+## Hey there! 
+### I'm an IT student currently trying to break into data analysis.
+
+Check out my [Portfolio](https://github.com/adrielmolina/portfolio)
 
 <!--
 **adrielmolina/adrielmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
