@@ -1,5 +1,5 @@
 ## Hey there! 
-### I'm an IT student currently trying to break into data analysis.
+### I'm an IT graduate currently trying to break into data analysis.
 
 Check out my [Portfolio](https://github.com/adrielmolina/portfolio)
 
